@@ -21,16 +21,37 @@ class ThemeAsset extends AssetBundle
     // public $baseUrl = '@theme';
     public $baseUrl = '@web';
     public $css = [
-        // '/css/site.css',
-        '../../css/vendors_css.css',
-         '../..//css/skin_color.css',
-        // '../../css/custom.css',
-        // '../../css/dashboard5.css',
-        // '../../css/responsive.html',
+        // 'css/site.css',
+        'theme/css/vendors_css.css',
+        'theme/css/style.css',
+        'theme/css/skin_color.css',
+        'themecss/custom.css',
+        'theme/css/css/dashboard5.css',
+        'theme/css/responsive.html',
   
 
     ];
     public $js = [
+    'theme/js/vendors.min.js',
+    'theme/js/pages/chat-popup.js',
+    'theme/assets/icons/feather-icons/feather.min.js',
+
+
+    'theme/assets/vendor_components/raphael/raphael.min.js',
+    'theme/assets/vendor_components/morris.js/morris.min.js',
+    'theme/assets/vendor_components/apexcharts-bundle/dist/apexcharts.js',
+    'theme/assets/vendor_components/flexslider/jquery.flexslider.js',
+    'theme/assets/vendor_plugins/bootstrap-slider/bootstrap-slider.js',
+    'theme/assets/vendor_components/OwlCarousel2/dist/owl.carousel.js',
+    'theme/assets/vendor_components/c3/c3.min.js',
+    'theme/assets/vendor_components/c3/d3.min.js',
+
+
+
+    'theme/js/demo.js',
+    'theme/js/template.js',
+    'theme/js/pages/dashboard5.js',
+	
     ];
     public $depends = [
         // 'yii\web\YiiAsset',

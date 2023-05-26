@@ -19,15 +19,15 @@ $this->title = 'My Yii Application';
     <title>InvestX - Dashboard</title>
     
 	<!-- Vendors Style-->
-	<link rel="stylesheet" href="theme/css/vendors_css.css">
+	<!-- <link rel="stylesheet" href="theme/css/vendors_css.css"> -->
 	  
 	<!-- Style-->  
-	<link rel="stylesheet" href="theme/css/style.css">
-	<link rel="stylesheet" href="theme/css/skin_color.css">
-	  
+	<!-- <link rel="stylesheet" href="theme/css/style.css">
+	<link rel="stylesheet" href="theme/css/skin_color.css"> -->
+<!-- 	  
 	<link rel="stylesheet" href="theme/css/custom.css">
  	<link rel="stylesheet" href="theme/css/responsive.html">
- 	<link rel="stylesheet" href="theme/css/dashboard5.css">
+ 	<link rel="stylesheet" href="theme/css/dashboard5.css"> -->
  	
      
   </head>
@@ -1553,11 +1553,11 @@ $this->title = 'My Yii Application';
 	
 	<!-- Vendor JS -->
 	
-	<script src="theme/js/vendors.min.js"></script>
+	<!-- <script src="theme/js/vendors.min.js"></script>
 	<script src="theme/js/pages/chat-popup.js"></script>
     <script src="theme/assets/icons/feather-icons/feather.min.js"></script>
-	
-	
+	 -->
+<!-- 	
 	<script src="theme/assets/vendor_components/raphael/raphael.min.js"></script>
 	<script src="theme/assets/vendor_components/morris.js/morris.min.js"></script>
 	<script src="theme/assets/vendor_components/apexcharts-bundle/dist/apexcharts.js"></script>
@@ -1566,14 +1566,14 @@ $this->title = 'My Yii Application';
 	<script src="theme/assets/vendor_components/OwlCarousel2/dist/owl.carousel.js"></script>
 	<script src="theme/assets/vendor_components/c3/c3.min.js"></script>
 	<script src="theme/assets/vendor_components/c3/d3.min.js"></script>
-	
+	 -->
 	
 	<!-- InvestX App -->
-	<script src="theme/js/demo.js"></script>
+	<!-- <script src="theme/js/demo.js"></script>
 	<script src="theme/js/template.js"></script>
 	<script src="theme/js/pages/dashboard5.js"></script>
 	
-	
+	 -->
 </body>
 
 <!-- Mirrored from investx-admin-template.multipurposethemes.com/New_InvestX-main-files/html/template/vertical-light/main/index5.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 May 2023 22:59:19 GMT -->
