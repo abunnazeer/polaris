@@ -61,6 +61,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 </header> -->
     <?= $this->render('header.php') ?>
     <?= $this->render('_left.php') ?>
+    <?= $this->render('others.php') ?>
 
      <div class="content-wrapper rounded-0">
 	  <div class="container-full">
