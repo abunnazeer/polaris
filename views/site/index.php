@@ -186,7 +186,7 @@ $this->title = 'My Yii Application';
 			<!-- User Account-->
 			<li class="dropdown user user-menu">
 				<a href="#" class="waves-effect waves-light dropdown-toggle w-auto l-h-12 bg-transparent p-0 no-shadow" title="User" data-bs-toggle="modal" data-bs-target="#quick_user_toggle">
-					<img src="../../../images/avatar/avatar-13.png" class="avatar rounded bg-primary-light" alt="" />
+					<img src="theme/images/avatar/avatar-13.png" class="avatar rounded bg-primary-light" alt="" />
 				</a>
 			</li>
 			
@@ -722,9 +722,9 @@ $this->title = 'My Yii Application';
 												<div class="col-xl-7 col-sm-5 favorite-box">
 													<p class="mb-0"><small class="subtitle mb-0">Favorite Contacts</small></p>
 													<div class="d-flex">
-														<img src="../../../images/avatar/avatar-10.png" width="32" height="32" class="bg-light rounded-circle" alt="Avatar">
-														<img src="../../../images/avatar/avatar-8.png" width="32" height="32" class=" bg-light rounded-circle" alt="Avatar" style="margin-left: -15px;">
-														<img src="../../../images/avatar/avatar-9.png" width="32" height="32" class="bg-light rounded-circle" alt="Avatar" style="margin-left: -15px;">
+														<img src="theme/images/avatar/avatar-10.png" width="32" height="32" class="bg-light rounded-circle" alt="Avatar">
+														<img src="theme/images/avatar/avatar-8.png" width="32" height="32" class=" bg-light rounded-circle" alt="Avatar" style="margin-left: -15px;">
+														<img src="theme/images/avatar/avatar-9.png" width="32" height="32" class="bg-light rounded-circle" alt="Avatar" style="margin-left: -15px;">
 													</div>
 												</div>
 												<div class="col-xl-3 col-lg-3">
@@ -893,7 +893,7 @@ $this->title = 'My Yii Application';
 									<div class="d-flex align-items-center justify-content-between">
 										<div class="d-flex align-items-center">
 											<div class="h-50 w-50 text-center">
-												<img src="../../../images/avatar/avatar-10.png"  class="bg-light rounded-circle" alt="Avatar">
+												<img src="theme/images/avatar/avatar-10.png"  class="bg-light rounded-circle" alt="Avatar">
 											</div>
 											<div class="d-flex flex-column font-weight-500 mx-10">
 												<a href="#" class="text-dark hover-primary mb-1  fs-17">Robert Fox</a>
@@ -912,7 +912,7 @@ $this->title = 'My Yii Application';
 									<div class="d-flex align-items-center justify-content-between">
 										<div class="d-flex align-items-center">
 											<div class="h-50 w-50  text-center">
-												<img src="../../../images/avatar/avatar-8.png"  class="bg-light rounded-circle" alt="Avatar">
+												<img src="theme/images/avatar/avatar-8.png"  class="bg-light rounded-circle" alt="Avatar">
 											</div>
 											<div class="d-flex flex-column font-weight-500 mx-10">
 												<a href="#" class="text-dark hover-primary mb-1  fs-17">Netflix</a>
@@ -931,7 +931,7 @@ $this->title = 'My Yii Application';
 									<div class="d-flex align-items-center justify-content-between">
 										<div class="d-flex align-items-center">
 											<div class="h-50 w-50 text-center">
-												<img src="../../../images/avatar/avatar-7.png" class="bg-light rounded-circle" alt="Avatar">
+												<img src="theme/images/avatar/avatar-7.png" class="bg-light rounded-circle" alt="Avatar">
 											</div>
 											<div class="d-flex flex-column font-weight-500 mx-10">
 												<a href="#" class="text-dark hover-primary mb-1  fs-17">Warren</a>
@@ -1030,7 +1030,7 @@ $this->title = 'My Yii Application';
 			</div>
             <div>
                 <div class="d-flex flex-row">
-                    <div class=""><img src="../../../images/avatar/avatar-13.png" alt="user" class="rounded bg-primary-light w-150" width="100"></div>
+                    <div class=""><img src="theme/images/avatar/avatar-13.png" alt="user" class="rounded bg-primary-light w-150" width="100"></div>
                     <div class="ps-20">
                         <h5 class="mb-0">Nil Yeager</h5>
                         <p class="my-5 text-fade">Manager</p>
@@ -1192,7 +1192,7 @@ $this->title = 'My Yii Application';
           <div class="media-list media-list-hover mt-20">
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-success" href="#">
-				<img src="../../../images/avatar/1.jpg" alt="...">
+				<img src="theme/images/avatar/1.jpg" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="fs-16">
@@ -1205,7 +1205,7 @@ $this->title = 'My Yii Application';
 
 			<div class="media py-10 px-0">
 			  <a class="avatar avatar-lg status-danger" href="#">
-				<img src="../../../images/avatar/2.jpg" alt="...">
+				<img src="theme/images/avatar/2.jpg" alt="...">
 			  </a>
 			  <div class="media-body">
 				<p class="fs-16">
