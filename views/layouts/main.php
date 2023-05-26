@@ -27,7 +27,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
     <title><?= Html::encode($this->title) ?></title>
     <?php $this->head() ?>
 </head>
-<body class="d-flex flex-column h-100">
+<body class="hold-transition light-skin sidebar-mini theme-primary fixed">
 <?php $this->beginBody() ?>
 
 <!-- <header id="header">
