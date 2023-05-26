@@ -30,6 +30,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 <body class="hold-transition light-skin sidebar-mini theme-primary fixed">
 <?php $this->beginBody() ?>
 
+
 <!-- <header id="header">
     <?php
     NavBar::begin([
@@ -58,17 +59,19 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
     NavBar::end();
     ?>
 </header> -->
+    <?= $this->render('header.php') ?>
+    <?= $this->render('_left.php') ?>
 
-<!-- <main id="main" class="flex-shrink-0" role="main">
-    <div class="container">
-        <?php if (!empty($this->params['breadcrumbs'])): ?>
-            <?= Breadcrumbs::widget(['links' => $this->params['breadcrumbs']]) ?>
-        <?php endif ?>
-        <?= Alert::widget() ?>
+     <div class="content-wrapper rounded-0">
+	  <div class="container-full">
+		<!-- Main content -->
+		<section class="content p-0 ">
         <?= $content ?>
-    </div>
-</main> -->
 
+        </section>
+		<!-- /.content -->
+	    </div>
+     </div>
 <!-- <footer id="footer" class="mt-auto py-3 bg-light">
     <div class="container">
         <div class="row text-muted">
