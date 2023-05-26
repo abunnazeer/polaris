@@ -14,22 +14,11 @@ $this->title = 'My Yii Application';
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="https://investx-admin-template.multipurposethemes.com/New_InvestX-main-files/html/images/favicon.ico">
+    <link rel="icon" href="theme/images/favicon.ico">
 
     <title>InvestX - Dashboard</title>
     
-	<!-- Vendors Style-->
-	<!-- <link rel="stylesheet" href="theme/css/vendors_css.css"> -->
-	  
-	<!-- Style-->  
-	<!-- <link rel="stylesheet" href="theme/css/style.css">
-	<link rel="stylesheet" href="theme/css/skin_color.css"> -->
-<!-- 	  
-	<link rel="stylesheet" href="theme/css/custom.css">
- 	<link rel="stylesheet" href="theme/css/responsive.html">
- 	<link rel="stylesheet" href="theme/css/dashboard5.css"> -->
- 	
-     
+
   </head>
 
 <body class="hold-transition light-skin sidebar-mini theme-primary fixed">
@@ -43,12 +32,12 @@ $this->title = 'My Yii Application';
 		<a href="index.html" class="logo">
 		  <!-- logo-->
 		  <div class="logo-mini w-40">
-			  <span class="light-logo"><img src="theme/images/logo-letter.png" alt="logo"></span>
-			  <span class="dark-logo"><img src="theme/images/logo-letter-white.png" alt="logo"></span>
+			  <span class="light-logo"><img src="theme/images/favicon.png" alt="logo"></span>
+			  <span class="dark-logo"><img src="theme/images/favicon.png" alt="logo"></span>
 		  </div>
 		  <div class="logo-lg">
-			  <span class="light-logo"><img src="theme/images/logo-dark-text.png" alt="logo"></span>
-			  <span class="dark-logo"><img src="theme/images/logo-light-text.png" alt="logo"></span>
+			  <span class="light-logo"><img src="theme/images/blacktrans.png" alt="logo"></span>
+			  <span class="dark-logo"><img src="theme/images/blacktrans.png" alt="logo"></span>
 		  </div>
 		</a>	
 	</div>   
