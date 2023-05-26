@@ -54,7 +54,7 @@ class ThemeAsset extends AssetBundle
 	
     ];
     public $depends = [
-        // 'yii\web\YiiAsset',
-        // 'yii\bootstrap5\BootstrapAsset'
+        'yii\web\YiiAsset',
+        'yii\bootstrap5\BootstrapAsset'
     ];
 }
